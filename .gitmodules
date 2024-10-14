@@ -1,0 +1,4 @@
+[submodule "EMAGE"]
+	path = EMAGE
+	url = https://huggingface.co/H-Liu1997/EMAGE
+	ignore = dirty
